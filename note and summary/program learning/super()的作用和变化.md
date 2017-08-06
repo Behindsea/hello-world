@@ -22,7 +22,8 @@ class B(A):
  super()```
  在Python2中调用方法：
  ```python
- super(Currentclassname,self)```
-二者区别是不用输入当前类名和self参数，在理解上可以更加直观，并且减少了重复输入，更便于维护。
+ super(Currentclassname,self)
+ ```
+ 二者区别是不用输入当前类名和self参数，在理解上可以更加直观，并且减少了重复输入，更便于维护。
 
 **官方推荐使用Python3的写法。**
