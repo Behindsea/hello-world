@@ -1,0 +1,45 @@
+# Python之禅
+作者：Tim Peters
+
+原文：
+- Beautiful is better than ugly.
+- Explicit is better than implicit.
+- Simple is better than complex.
+- Complex is better than complicated.
+- Flat is better than nested.
+- Sparse is better than dense.
+- Readability counts.
+- Special cases aren't special enough to break the rules.
+- Although practicality beats purity.
+- Errors should never pass silently.
+- Unless explicitly silenced.
+- In the face of ambiguity, refuse the temptation to guess.
+- There should be one-- and preferably only one --obvious way to do it.
+- Although that way may not be obvious at first unless you're Dutch.
+- Now is better than never.
+- Although never is often better than \*right\* now.
+- If the implementation is hard to explain, it's a bad idea.
+- If the implementation is easy to explain, it may be a good idea.
+- Namespaces are one honking great idea -- let's do more of those!
+
+译文：
+
+- 漂亮优于丑陋
+- 明确优于含蓄
+- 简单优于复杂
+- 复杂优于难懂
+- 扁平优于嵌套
+- 稀疏优于密集
+- 强调可读性
+- 特殊情况并非特殊到足以打破规则
+- 虽然实用性胜过纯净
+- 但是错误也不应该无声无息略过
+- 除非是确定地忽略
+- 面对模棱两可的情况下，拒绝猜测的诱惑
+- 应当有一个，并且最好只有一个，明确的方式完成它
+- 尽管那种方式可能一开始并不明显，除非你是荷兰人
+- 已实现比纯计划更好
+- 尽管纠正现状还不如没有开始
+- 如果实现方式很难说明，它就是个坏主意
+- 如果实现方式很容易说明，那它可能是个好主意
+- 命名空间是一个伟大的想法，让我们更多的使用它吧！
