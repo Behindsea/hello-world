@@ -4,7 +4,7 @@ except ImportError:
     from distutils.core import setup
 
 config = {
-    'name': 'projectname',
+    'name': 'ex47',
     'version': '1.0',
     'description': "My Project",
 
